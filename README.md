@@ -5,7 +5,7 @@ A responsive and modern portfolio website developed using **HTML5** and **CSS3**
 ## 🌐 Live Demo
 
 🔗 **Portfolio Website:**
-https://jampalaakhila6-beep.github.io/decodelabs-project1-static-webpage/
+https://yogender-verma.github.io/DecodeLab-1/
 
 ---
 
@@ -71,7 +71,7 @@ decodelabs-project1-static-webpage/
 
 ## 👩‍💻 About Me
 
-**Jampala Akhila**
+**Yogender verma**
 
 Software Engineer Aspirant passionate about:
 
@@ -130,13 +130,10 @@ The website is fully responsive and adapts seamlessly to:
 
 ## 🔗 Contact
 
-📧 Email: [jampalaakhila6@gmail.com](mailto:jampalaakhila6@gmail.com)
+📧 Email: yogendarverma@gmail.com
 
 📍 Location: Hyderabad, Telangana, India
 
-📞 Phone: 8688607047
-
-🔗 GitHub: https://github.com/JampalaAkhila6-beep
 
 ---
 
