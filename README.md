@@ -63,7 +63,7 @@ decodelabs-project1-static-webpage/
 │
 ├── index.html
 ├── style.css
-├── Akhila pro pic.jpeg
+├── Yogender.jpeg
 └── README.md
 ```
 
