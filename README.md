@@ -130,7 +130,7 @@ The website is fully responsive and adapts seamlessly to:
 
 ## 🔗 Contact
 
-📧 Email: yogendarverma@gmail.com
+📧 Email: yogendarverma0268@gmail.com
 
 📍 Location: Hyderabad, Telangana, India
 
